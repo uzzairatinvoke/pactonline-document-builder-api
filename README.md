@@ -10,3 +10,5 @@
 
 # Other Notes
 - Boleh download Client app (NextJS) di [sini](https://github.com/uzzairatinvoke/pactonline-document-builder-client).
+- Kalau nak tengok API Doc boleh pergi ke [http://localhost:5775/swagger](http://localhost:5775/swagger)
+- Kalau nak import collection dalam Insomnia pergi ke [http://localhost:5775/swagger/json](http://localhost:5775/swagger/json). Dekat situ anda korang copy and paste JSON yang korang nampak tu dalam importer Insomnia.
