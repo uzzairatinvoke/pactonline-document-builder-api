@@ -7,3 +7,6 @@
 - make sure datatype untuk column 'content' ialah JSON.
 - change your db settings in .env
 - run ```npm run start:dev```
+
+# Other Notes
+- Boleh download Client app (NextJS) di [sini](https://github.com/uzzairatinvoke/pactonline-document-builder-client).
